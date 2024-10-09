@@ -71,4 +71,8 @@ This project is a full-stack application developed using the MERN (MongoDB, Expr
 
 - Displays a bar chart showing the price range and the number of items in each range for the selected month.
 
-![Screen Shot](frontend/public/screencapture.png)
+![Screen Shot](frontend/public/Screenshot%20(28).png)
+![Screen Shot](frontend/public/Screenshot%20(31).png)
+![Screen Shot](frontend/public/Screenshot%20(32).png)
+![Screen Shot](frontend/public/Screenshot%20(33).png)
+
